@@ -1,2 +1,2 @@
 # VENS
-This is a VoiceEnabledNewsSearch personal POC
+This is an ongoing VoiceEnabledNewsSearch personal POC
