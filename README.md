@@ -1,2 +1,2 @@
 # VENS
-This is an ongoing VoiceEnabledNewsSearch personal POC - Status : Initiated
+This is an ongoing VoiceEnabledNewsSearch personal POC - In Initiatial stage 
